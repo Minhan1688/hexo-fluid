@@ -1,38 +1,35 @@
 ---
 title: Hello World
+tags:
+  - hello world
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+# Hello World！
 
-### Create a new post
+## 引言
 
-``` bash
-$ hexo new "My New Post"
-```
+千辛万苦后，我的博客终于诞生了：在反复探索和uu们的帮助下，终于搭建好了属于自己的博客。今天，在这里写下我的第一篇文章，用那句经典问候——“Hello World！”——来开启我的分享之旅。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 搭建博客的过程
 
-### Run server
+从学习前端到搭建博客的过程微比我想象的要复杂。我曾因为一个简单的代码错误而彻夜难眠，也曾因为莫名其妙的报错而焦虑不安。最后在反复尝试下选择了[fluid]()作为主题，走上正轨。但正是这些困难，让我心态逐渐稳定（现在过分稳定），也让我very珍惜这个属于博客。
 
-``` bash
-$ hexo server
-```
+## 第一声问候
 
-More info: [Server](https://hexo.io/docs/server.html)
+“Hello World！”不仅仅是一个程序的开始，它也是我们向这个世界发出的第一声问候。话虽简单，却承载着我们对未来的期待和对知识的渴望。在这个博客里，记录下我的学习心得、生活点滴和技术探索，希望能够与同样热爱生活、热爱技术的uu们一起分享和交流。
 
-### Generate static files
+## 分享：学习、生活与技术
 
-``` bash
-$ hexo generate
-```
+在未来的日子里，计划在这个博客上分享以下内容：
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+- **学习心得**：记录下我在编程、产品、管理、课业知识等方面的学习过程和心得体会，定期整理，希望能够给正在学习这些领域的朋友们一些启发和帮助。
+- **生活点滴**：生活不仅仅是代码和工作，还有诗和远方。分享我的旅行故事、阅读体验和生活感悟，希望能够给大家带来一些轻松和愉悦。
+- **技术探索**：技术是推动世界前进的动力。分享我在新技术、新工具和新框架上的探索和实践，希望能够与同行们一起成长和进步。
 
-### Deploy to remote sites
+## 从个人到
 
-``` bash
-$ hexo deploy
-```
+搭建这个博客，不仅仅是为了记录个人的成长，更是希望能够找到一个和大众沟通的渠道。希望我们可以在这里互相学习、互相帮助、互相鼓励。我相信，每个人的知识和经验都是宝贵的，当我们将这些知识和经验分享出来时，我们就能够一起创造出更有意义的价值。
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## 结语
+
+博客的搭建只是开始，未来的路还很长。期待在这个平台上遇到更多的朋友，一起交流、一起成长。从“Hello World！”开始，开启一段精彩的旅程。感谢每一位读者，感谢你们的关注和支持。让我们一起期待，未来更多精彩的故事。
