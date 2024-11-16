@@ -7,13 +7,13 @@ title: minhan's blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: Minhan
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.minhan.host
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,3 +102,16 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# Feed
+## Docs: https://github.com/hexojs/hexo-generator-feed/
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  content: true
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
