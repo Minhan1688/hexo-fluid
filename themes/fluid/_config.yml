@@ -999,8 +999,9 @@ about:
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/Minhan1688", tip: "GitHub" }
-    - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    # - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
+    - { class: "iconfont icon-wechat-fill", qrcode: "/img/wechat.jpg" }
+    - { class: "iconfont icon-alipay-fill", qrcode: "/img/alipay.jpg" }
 
 
 #---------------------------
@@ -1049,6 +1050,12 @@ links:
       avatar: "/img/tony.jpg"
     }
     - {
+      title: "",
+      intro: "",
+      link: "https://#/",
+      avatar: "https://#/img/avatar.png"
+    }    
+    - {
       title: "望舒",
       intro: "技术领航人",
       link: "https://blog.phlin.top/",
@@ -1060,6 +1067,24 @@ links:
       link: "https://blog.liip.fun/",
       avatar: "/img/xsx.jpg"
     }
+    - {
+      title: "浅浅",
+      intro: "万字master",
+      link: "https://blog.qianqianzyk.top",
+      avatar: "/img/zyk.jpg"
+    }
+    - {
+      title: "日升",
+      intro: "哲学master",
+      link: "https://toasttsaot.github.io/",
+      avatar: "/img/xs.jpg"
+    }    
+    - {
+      title: "待定",
+      intro: "来个master",
+      link: "https://#/",
+      avatar: "https://#/img/avatar.png"
+    }    
     - {
       title: "麻衣",
       intro: "前端好朋友",
@@ -1097,16 +1122,16 @@ links:
       avatar: "/img/cx.jpg"
     }    
     - {
-      title: "",
+      title: "soso",
       intro: "",
-      link: "https://#/",
-      avatar: "https://#/img/avatar.png"
+      link: "https://hstardawn.github.io",
+      avatar: "/img/hxx.jpg"
     }    
     - {
-      title: "",
+      title: "王折乙",
       intro: "",
-      link: "https://#/",
-      avatar: "https://#/img/avatar.png"
+      link: "https://zheyi.in/",
+      avatar: "/img/wcx.jpg"
     }    
     # - {
     #   title: "SeSame",
