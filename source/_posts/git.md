@@ -177,7 +177,7 @@ cd../.. 跳到目前目录的上上两层
 
   把暂存区的文件提交到本地仓库后的状态
 
-![flowchart2](/git-flow-chart2.png)
+![flowchart2](../img/git-flow-chart2.png)
 
 ### 添加和提交文件
 
@@ -280,67 +280,4 @@ git log --oneline（简洁版）
 ### git diff  (查看差异)
 
 ![git-diff](../img/git-diff.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-feed:
-
-​    type: atom
-
-​    path: atom.xml
-
-​    limit: 20
-
-​    hub:
-
-​    content:
-
-​    content_limit:
-
-​    content_limit_delim: ' '
-
-
-
-
-
-
-
-
-
 
