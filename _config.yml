@@ -107,11 +107,20 @@ deploy:
 ## Docs: https://github.com/hexojs/hexo-generator-feed/
 feed:
   enable: true
-  type: atom
-  path: atom.xml
-  limit: 0
+  type: rss2
+  path: rss2.xml
+  limit: 
   hub:
   content: true
-  content_limit: 140
+  content_limit: 
   content_limit_delim: ' '
   order_by: -date
+
+# feed:
+#   type: atom
+#   ​path: atom.xml
+#   ​limit: 20
+#   ​hub:
+#   ​content:
+#   ​content_limit:
+#   content_limit_delim: ' '
