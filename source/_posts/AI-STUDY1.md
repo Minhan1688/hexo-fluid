@@ -3,7 +3,7 @@ title: AI学习笔记1
 date: 2024-12-19 00:54:07
 categories: AI
 tags:
-  - git
+  - AI
   - 技术
 ---
 
