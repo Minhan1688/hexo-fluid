@@ -1,6 +1,6 @@
 ---
 title: AI学习笔记3
-date: 2024-12-31 00:02:01
+date: 2024-12-30 00:02:01
 categories: AI
 tags:
   - AI
