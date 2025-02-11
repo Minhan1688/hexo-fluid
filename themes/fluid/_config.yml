@@ -382,6 +382,16 @@ navbar:
     #   ]
     #   }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
+    - {
+      key: 'menu',
+      icon: 'iconfont icon-books',
+      submenu: [
+        { key: '订阅地址', link: '/atom.xml', icon: 'iconfont icon-rss-fill' },
+        { key: '博客地址', link: 'https://blog.minhan.host', icon: 'iconfont icon-link-fill' },
+        # { key: '配置指南', link: 'https://hexo.fluid-dev.com/docs/guide/' },
+        # { key: '图标用法', link: 'https://hexo.fluid-dev.com/docs/icon/' }
+      ]
+      }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
