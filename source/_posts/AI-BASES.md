@@ -1,5 +1,5 @@
 ---
-title: AI学习笔记5
+title: 基本概念补充
 date: 2025-01-04 19:08:10
 categories: AI
 tags:
